@@ -17,8 +17,7 @@ def marketPage():
 	]
 	return render_template("market.html", 
 		items=items)
-
-
+ 
 
 
 
